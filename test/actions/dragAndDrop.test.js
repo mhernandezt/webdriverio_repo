@@ -24,4 +24,8 @@ describe('Drag and drop', function() {
     it.skip('should change', () => {
 
     });
+
+    it.skip('should change 2do commit', () => {
+
+    });
 });
