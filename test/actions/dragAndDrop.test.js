@@ -28,4 +28,8 @@ describe('Drag and drop', function() {
     it.skip('should change 2do commit', () => {
 
     });
+
+    it.skip('should change 6th commit', () => {
+
+    });
 });
