@@ -20,4 +20,8 @@ describe('Drag and drop', function() {
 
         assert.equal('Dropped!', droppable.getText());
     });
+
+    it.skip('should change', () => {
+
+    });
 });
